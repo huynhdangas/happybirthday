@@ -1,6 +1,6 @@
 var width = document.documentElement.clientWidth;
 var height = document.documentElement.clientHeight;
-var images = ['1.jpg', '2.jpg', '3.jpg', '4.png', '4.jpeg', '5.jpg', '6.jpg', '8.jpeg'];
+var images = ['1.jpg', '2.jpg', '3.jpg', '4.png', '4.jpeg', '5.jpg', '6.jpg', '8.jpeg', '9.jpg', '10.jpg', '11.jpg', '12.jpg','13.jpg'];
 
 var count = 40;
 // var blurArray = ['0px','5px'];
