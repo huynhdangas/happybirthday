@@ -6,6 +6,7 @@ var count = 40;
 // var blurArray = ['0px','5px'];
 
 
+
 setInterval(changeImage,1000);
 
 function changeImage () {
@@ -42,6 +43,8 @@ function createElementRandom() {
 
     }
 }
+
+
 
 
 
